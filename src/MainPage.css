@@ -1,0 +1,11 @@
+.Main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 800px;
+    height: 800px;
+    margin-left: -400px;
+    margin-top: -400px;
+    border: 1px solid gray;
+    text-align: center;
+}
